@@ -2,10 +2,10 @@
 ## Topic
 ### Introduction to Inheritance
 ### types of Inheritance
-###S ingle Inheritance
+### Single Inheritance
 ### Multiple Inheritance
 ### Multilevel Inheritance
-###H ierarchical Inheritance
+### Hierarchical Inheritance
 ### Hybrid Inheritance
 ### Method Resolution Order (MRO)
 ### The super() Function
